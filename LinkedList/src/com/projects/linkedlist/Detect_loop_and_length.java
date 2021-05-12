@@ -72,5 +72,5 @@ public class Detect_loop_and_length {
 		llist.detectLoop();
 	}
 }
-/* This code is contributed by Rajat Mishra. */
+
 
