@@ -76,4 +76,3 @@ public class Largest_Rectangular_Area_in_a_Histogram
 		System.out.println("Maximum area is " + getMaxArea(hist, hist.length));
 	}
 }
-//This code is Contributed by Sumit Ghosh

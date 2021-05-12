@@ -81,5 +81,4 @@ public class Stack_using_Queues {
 		System.out.println("current size: " + s.size());
 	}
 }
-// This code is contributed by Prerna
 

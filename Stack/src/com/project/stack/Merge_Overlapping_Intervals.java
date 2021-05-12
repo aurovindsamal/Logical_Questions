@@ -87,5 +87,3 @@ public class Merge_Overlapping_Intervals {
 		mergeIntervals(arr);
 	}
 }
-
-//This code is contributed by Gaurav Tiwari

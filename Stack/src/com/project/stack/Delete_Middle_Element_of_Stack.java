@@ -56,6 +56,3 @@ public class Delete_Middle_Element_of_Stack {
 	}
 }
 
-//This code is contributed by
-//Manish Shaw (manishshaw1)
-

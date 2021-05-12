@@ -232,5 +232,3 @@ public class Implement_Stack_and_Queue_using_Deque {
 		System.out.println("Size of queue is " + que.size());
 	}
 }
-
-//This code is contributed by sujitmeshram

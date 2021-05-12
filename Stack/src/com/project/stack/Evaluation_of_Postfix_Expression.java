@@ -59,5 +59,4 @@ public class Evaluation_of_Postfix_Expression
 		System.out.println("postfix evaluation: "+evaluatePostfix(exp));
 	}
 }
-//Contributed by Sumit Ghosh
 

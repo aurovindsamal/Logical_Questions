@@ -115,5 +115,3 @@ public class Iterative_Postorder_Traversal_Using_One_Stack
 	}
 }
 
-//This code has been contributed by Mayank Jaiswal
-

@@ -14,6 +14,7 @@ to closing bracket at index 8.
 //Java program to find index of closing
 //bracket for given opening bracket.
 import java.util.Stack;
+
 public class index_of_closing_bracket_for_a_given_opening_bracket {
 
 //Function to find index of closing
@@ -24,8 +25,7 @@ public class index_of_closing_bracket_for_a_given_opening_bracket {
 		// If index given is invalid and is
 		// not an opening bracket.
 		if (expression.charAt(index) != '[') {
-			System.out.print(expression + ", "
-					+ index + ": -1\n");
+			System.out.print(expression + ", " + index + ": -1\n");
 			return;
 		}
 
@@ -41,14 +41,13 @@ public class index_of_closing_bracket_for_a_given_opening_bracket {
 			if (expression.charAt(i) == '[') {
 				st.push((int) expression.charAt(i));
 			} // If current character is a closing
-			// bracket, pop from stack. If stack
-			// is empty, then this closing
-			// bracket is required bracket.
+				// bracket, pop from stack. If stack
+				// is empty, then this closing
+				// bracket is required bracket.
 			else if (expression.charAt(i) == ']') {
 				st.pop();
 				if (st.empty()) {
-					System.out.print(expression + ", "
-							+ index + ": " + i + "\n");
+					System.out.print(expression + ", " + index + ": " + i + "\n");
 					return;
 				}
 			}
@@ -56,8 +55,7 @@ public class index_of_closing_bracket_for_a_given_opening_bracket {
 
 		// If no matching closing bracket
 		// is found.
-		System.out.print(expression + ", "
-				+ index + ": -1\n");
+		System.out.print(expression + ", " + index + ": -1\n");
 	}
 
 //Driver Code
@@ -67,6 +65,4 @@ public class index_of_closing_bracket_for_a_given_opening_bracket {
 		test("[ABC[23]][89]", 9); // should be 12
 		test("[ABC[23]][89]", 1); // No matching bracket
 	}
-//this code is contributed by Rajput-Ji
 }
-

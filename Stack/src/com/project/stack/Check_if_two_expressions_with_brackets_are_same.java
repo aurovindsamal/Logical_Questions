@@ -133,6 +133,3 @@ public class Check_if_two_expressions_with_brackets_are_same
 			System.out.println("No");
 	}
 }
-
-//This code is contributed by
-//sanjeev2552

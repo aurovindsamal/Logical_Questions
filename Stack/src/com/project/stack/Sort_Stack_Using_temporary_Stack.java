@@ -45,4 +45,3 @@ public class Sort_Stack_Using_temporary_Stack {
 		}
 	}
 }
-//This code is contributed by Danish Kaleem

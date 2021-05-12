@@ -71,5 +71,3 @@ public class Prefix_To_Postfix {
 		System.out.println("Postfix : " + preToPost(pre_exp));
 	}
 }
-
-//This code is contributed by Arnab Kundu

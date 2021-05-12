@@ -70,5 +70,3 @@ public class Implement_stack_using_single_queue
 		System.out.println("Top element :" + s.top());
 	}
 }
-
-//This code is contributed by Rishabh Mahrsee

@@ -92,5 +92,3 @@ public class Two_Stacks_In_Array {
 						+ " stack2 is " + ts.pop2());
 	}
 }
-//This code has been contributed by
-//Amit Khandelwal(Amit Khandelwal 1).

@@ -48,5 +48,4 @@ public class Reverse_Number_Using_Stack
 		System.out.println(reverse_number(number));
 	}
 }
-//This code is contributed by Sumit Ghosh
 

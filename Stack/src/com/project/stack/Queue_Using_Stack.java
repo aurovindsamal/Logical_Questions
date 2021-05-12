@@ -53,5 +53,3 @@ public class Queue_Using_Stack {
 		System.out.println(q.deQueue());
 	}
 }
-
-//This code is contributed by Prerna Saini

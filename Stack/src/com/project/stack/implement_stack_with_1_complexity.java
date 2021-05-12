@@ -124,5 +124,3 @@ public class implement_stack_with_1_complexity {
 						+ ob.findMiddle(ms));
 	}
 }
-
-// This code is contributed by Sumit Ghosh
