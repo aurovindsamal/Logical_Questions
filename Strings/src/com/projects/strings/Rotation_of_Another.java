@@ -2,9 +2,9 @@ package com.projects.strings;
 
 public class Rotation_of_Another {
 	public static void main(String[] args) {
-		String s1 = "JavaJ2eeStrutsHibernate";
+		String s1 = "ABACD";
 
-		String s2 = "StrutsHibernateJavaJ2ee";
+		String s2 = "CDABA";
 
 		// Step 1
 
